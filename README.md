@@ -16,10 +16,6 @@ Or install it yourself as:
 
     $ gem install aws_helpers
 
-## Usage
-
-
-
 ## Contributing
 
 1. Fork it ( http://github.com/<my-github-username>/aws_helpers/fork )
